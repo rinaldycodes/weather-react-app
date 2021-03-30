@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rinaldycodes/weather-react-app/static/css/main.81e9ef79.chunk.css",
-    "main.js": "/rinaldycodes/weather-react-app/static/js/main.c54b7561.chunk.js",
-    "main.js.map": "/rinaldycodes/weather-react-app/static/js/main.c54b7561.chunk.js.map",
-    "runtime-main.js": "/rinaldycodes/weather-react-app/static/js/runtime-main.39e81951.js",
-    "runtime-main.js.map": "/rinaldycodes/weather-react-app/static/js/runtime-main.39e81951.js.map",
-    "static/js/2.7d3d2345.chunk.js": "/rinaldycodes/weather-react-app/static/js/2.7d3d2345.chunk.js",
-    "static/js/2.7d3d2345.chunk.js.map": "/rinaldycodes/weather-react-app/static/js/2.7d3d2345.chunk.js.map",
-    "static/js/3.6d0023e9.chunk.js": "/rinaldycodes/weather-react-app/static/js/3.6d0023e9.chunk.js",
-    "static/js/3.6d0023e9.chunk.js.map": "/rinaldycodes/weather-react-app/static/js/3.6d0023e9.chunk.js.map",
-    "index.html": "/rinaldycodes/weather-react-app/index.html",
-    "static/css/main.81e9ef79.chunk.css.map": "/rinaldycodes/weather-react-app/static/css/main.81e9ef79.chunk.css.map",
-    "static/js/2.7d3d2345.chunk.js.LICENSE.txt": "/rinaldycodes/weather-react-app/static/js/2.7d3d2345.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/rinaldycodes/weather-react-app/static/media/malaysia-izuddin-helmi-adnan-1e71PSox7m8-unsplash.aa5c84b8.jpg"
+    "main.css": "/weather-react-app/static/css/main.143b385e.chunk.css",
+    "main.js": "/weather-react-app/static/js/main.c54b7561.chunk.js",
+    "main.js.map": "/weather-react-app/static/js/main.c54b7561.chunk.js.map",
+    "runtime-main.js": "/weather-react-app/static/js/runtime-main.5896b22d.js",
+    "runtime-main.js.map": "/weather-react-app/static/js/runtime-main.5896b22d.js.map",
+    "static/js/2.7d3d2345.chunk.js": "/weather-react-app/static/js/2.7d3d2345.chunk.js",
+    "static/js/2.7d3d2345.chunk.js.map": "/weather-react-app/static/js/2.7d3d2345.chunk.js.map",
+    "static/js/3.6d0023e9.chunk.js": "/weather-react-app/static/js/3.6d0023e9.chunk.js",
+    "static/js/3.6d0023e9.chunk.js.map": "/weather-react-app/static/js/3.6d0023e9.chunk.js.map",
+    "index.html": "/weather-react-app/index.html",
+    "static/css/main.143b385e.chunk.css.map": "/weather-react-app/static/css/main.143b385e.chunk.css.map",
+    "static/js/2.7d3d2345.chunk.js.LICENSE.txt": "/weather-react-app/static/js/2.7d3d2345.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-react-app/static/media/malaysia-izuddin-helmi-adnan-1e71PSox7m8-unsplash.aa5c84b8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.39e81951.js",
+    "static/js/runtime-main.5896b22d.js",
     "static/js/2.7d3d2345.chunk.js",
-    "static/css/main.81e9ef79.chunk.css",
+    "static/css/main.143b385e.chunk.css",
     "static/js/main.c54b7561.chunk.js"
   ]
 }
